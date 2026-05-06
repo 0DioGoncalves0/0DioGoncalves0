@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=diogoncalves&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
-### Software Engineering @ ISEP
+### Software Engineering Student @ ISEP
 
 I'm a **"Hybrid Engineer"** focused on transforming complex problems into executable plans. I don't limit myself to a single niche; whether I'm building scalable systems, complex architectures, or optimizing workflows, I prioritize efficiency, leadership, and high-performance delivery in any challenge I take on.
 
